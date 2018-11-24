@@ -3,7 +3,7 @@
 _Let it snow on your Vue applications!_
 
 <p align="center">
-  <img src="/static/logo.png?raw=true" alt="Vue Niege"/>
+  <img src="https://github.com/P3trur0/vue-niege/blob/master/static/logo.png?raw=true" alt="Vue Niege"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ For example, the following:
 
 produces the following effect:
 
-![Vue de toits](/static/vue-niege.gif?raw=true "Vue de toits")
+![Vue de toits](https://github.com/P3trur0/vue-niege/blob/master/static/vue-niege.gif?raw=true "Vue de toits")
 
 ### Contributing
 
