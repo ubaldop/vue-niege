@@ -1,0 +1,3 @@
+# ignoring static data useful just for the REPO
+/static
+/build
