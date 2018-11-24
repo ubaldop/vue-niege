@@ -84,9 +84,6 @@ produces the following effect:
 
 ![Vue de toits](/static/vue-niege.gif?raw=true "Vue de toits")
 
-_**Vue de toits (Effet de neige)** is an oil painting by French impressionist Gustave Caillebotte executed in the winter of 1878 and 1879._
-
-
 ### Contributing
 
 This component can be improved both in features and performances. Please, help me in doing it better 🎅
