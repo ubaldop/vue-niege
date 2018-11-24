@@ -1,6 +1,6 @@
 {
   "name": "vue-niege",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "dist/snow.umd.js",
   "module": "dist/snow.esm.js",
@@ -27,5 +27,24 @@
     "rollup-plugin-vue": "^4.3.0",
     "vue": "^2.5.16",
     "vue-template-compiler": "^2.5.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P3trur0/vue-niege.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue2",
+    "snow",
+    "christmas",
+    "canvas",
+    "component"
+  ],
+  "author": "P3trur0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/P3trur0/vue-niege/issues"
+  },
+  "homepage": "https://github.com/P3trur0/vue-niege/"
 }
