@@ -2,7 +2,9 @@
 
 _Let it snow on your Vue applications!_
 
-![Vue Niege](/static/logo.png?raw=true "Vue Neige")
+<p align="center">
+  <img src="/static/logo.png?raw=true" alt="Vue Niege"/>
+</p>
 
 ---
 
