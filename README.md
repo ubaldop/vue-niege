@@ -72,7 +72,7 @@ For example, the following:
 
 ```js
  <Snow 
- :active='true'  //e.g.: introduce here a boolean condition to check if current date is in the Advent range.
+ :active='true'  //e.g.: add a condition to display the canvas only if current date is in the Advent range.
  :zIndex='2'
  :wind='1' 
  :swing='3' 
